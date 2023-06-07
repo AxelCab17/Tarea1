@@ -1,0 +1,57 @@
+body {
+    background-image: url("https://www.larepublica.net/storage/images/2018/02/08/201802081134100.FBSap.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+    nav {
+      background-color: #990066;
+      color: white;
+      font-family: "Arial", sans-serif;
+      padding: 10px;
+      position: fixed;
+      top: 0;
+      width: 100%;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+    }
+
+    nav ul li {
+      margin: 0 10px;
+    }
+
+    nav ul li a {
+      color: white;
+      text-decoration: none;
+    }
+
+    section {
+      margin-top: 60px;
+    }
+.descripcion {
+    text-align: center;
+    margin: 20px 0;
+    color: #990066;
+    font-size: 25px;
+    font-family: fantasy;
+}
+.botones-container {
+    text-align: center;
+    margin-top: 20px;
+}
+.botones-container button {
+    background-color: #990066;
+    color: white;
+    padding: 15px 30px;
+    font-size:30px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+}

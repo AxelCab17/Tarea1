@@ -1,0 +1,125 @@
+body {
+    background-image: url("https://pbs.twimg.com/media/DlnyvEbWsAE1uWd.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.descripcion-container p{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.jugadores-destacados p{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+h1 {
+    text-align: center;
+    color: #990066;
+    font-size: 50px;
+    font-family: fantasy;
+}
+h2{
+    text-align: center;
+    color: #990066;
+    font-size: 40px;
+    font-family: fantasy;
+}
+h3{
+    text-align: center;
+    color: #990066;
+    font-size: 40px;
+    font-family: fantasy;
+}
+    nav {
+      background-color: #990066;
+      color: white;
+      font-family: "Arial", sans-serif;
+      padding: 10px;
+      position: fixed;
+      top: 0;
+      width: 100%;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+    }
+
+    nav ul li {
+      margin: 0 10px;
+    }
+
+    nav ul li a {
+      color: white;
+      text-decoration: none;
+    }
+
+    section {
+      margin-top: 60px;
+    }
+.descripcion-container {
+    text-align: justify;
+    margin: 20px;
+}
+.jugadores-destacados {
+    margin-top: 40px;
+}
+.jugadores-destacados h2 {
+    text-align: center;
+}
+.jugadores-destacados ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+.jugadores-destacados li {
+    margin-bottom: 10px;
+}
+.botones-container {
+    text-align: center;
+    margin-top: 20px;
+}
+.botones-container button {
+    background-color: #990066;
+    color: white;
+    padding: 15px 30px;
+    font-size:30px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.botones-container button:first-child {
+    margin-right: 10px;
+}
+
+
+
+
+.entrenador-container p{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+.entrenador-container div{
+
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+.plantilla-container ul{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+}
+.plantilla-container li{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+
+}

@@ -1,0 +1,96 @@
+.botones-container {
+    text-align: center;
+    margin-top: 20px;
+}
+.botones-container button {
+    background-color: #990066;
+    color: white;
+    padding: 15px 30px; 
+    font-size:30px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+    nav {
+      background-color: #990066;
+      color: white;
+      font-family: "Arial", sans-serif;
+      padding: 10px;
+      position: fixed;
+      top: 0;
+      width: 100%;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+    }
+
+    nav ul li {
+      margin: 0 10px;
+    }
+
+    nav ul li a {
+      color: white;
+      text-decoration: none;
+    }
+
+    section {
+      margin-top: 60px;
+    }
+body {
+    background-image: url("https://www.hoyeneldeportecr.com/wp-content/uploads/2022/12/Nuevo-uniforme-Saprissa-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: #990066;
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+}
+.catalogo-container {
+    text-align: center;
+    margin-top: 20px;
+}
+.camisetas-historicas {
+    text-align: left;
+    margin-top: 40px;
+}
+.camisetas-historicas img {
+    max-width: 500px;
+    margin: 10px;
+}
+p{
+    font-size: 20px;
+    font-family: var;
+    text-align: center;
+    color: #990066;
+}
+h2{
+    color: #990066;
+    font-size: 30px;
+    font-family: fantasy;
+}
+.tienda-container {
+    text-align: right;
+    margin-top: 20px;
+}
+.tienda-container p {
+
+    text-align: right;
+    color: #990066;
+    font-size: 30px;
+    font-family: fantasy;
+}
+.catalogo-container p{
+    margin-top: 60px;
+    font-size: 40px;
+    margin: 0;
+}

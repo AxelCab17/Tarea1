@@ -1,0 +1,99 @@
+body {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/564/763/desktop-wallpaper-%D8%AA%D9%88%D9%8A%D8%AA%D8%B1-deportivo-saprissa-deportivo-saprissa.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+    nav {
+      background-color: #990066;
+      color: white;
+      font-family: "Arial", sans-serif;
+      padding: 10px;
+      position: fixed;
+      top: 0;
+      width: 100%;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+    }
+
+    nav ul li {
+      margin: 0 10px;
+    }
+
+    nav ul li a {
+      color: white;
+      text-decoration: none;
+    }
+
+    section {
+      margin-top: 60px;
+    }
+.descripcion {
+    text-align: center;
+    margin: 20px 0;
+    color: white;
+    font-size: 25px;
+    font-family: fantasy;
+}
+h1{
+    color: #990066;
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+}
+.copas-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.copa {
+    width: 600px;
+    margin: 10px;
+    text-align: center;
+}
+.copa h1{
+    color:white;
+    text-align: center;
+    margin: 20px 0;
+    font-size: 25px;
+    font-family: monospace;
+}
+.copa h2{
+    color:white;
+    text-align: center;
+    margin: 20px 0;
+    font-size: 25px;
+    font-family: monospace;
+}
+.copa h3{
+    color:white;
+    text-align: center;
+    margin: 20px 0;
+    font-size: 25px;
+    font-family: monospace;
+}
+.copa img {
+    max-width: 100%;
+    height: auto;
+}
+.botones-container {
+    text-align: center;
+    margin-top: 20px;
+}
+.botones-container button {
+    background-color: #990066;
+    color: white;
+    padding: 15px 30px;
+    font-size:30px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+}

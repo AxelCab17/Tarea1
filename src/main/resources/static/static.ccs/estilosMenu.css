@@ -1,0 +1,82 @@
+body {
+    background-image: url("https://www.lateja.cr/resizer/jCZrb2ITF--FpgcmNW115Pm-mLg=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/VY6G4AGKEBD6RC3BANWSMLNQ7Q.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+p{
+   text-align: center;
+    color: #990066;
+    font-size: 40px;
+    font-family: fantasy; 
+}
+h1{
+    text-align: left;
+    color: #990066;
+    font-size: 50px;
+    font-family: fantasy;
+}
+h2{
+    text-align: left;
+    color: #990066;
+    font-size: 40px;
+    font-family: fantasy;
+}
+h3{
+
+    text-align: center;
+    color: #990066;
+    font-size: 40px;
+    font-family: fantasy;
+}
+    header {
+      text-align: left;
+    }
+
+    header h1 {
+      margin-bottom: 0;
+    }
+    nav {
+      background-color: #990066;
+      color: white;
+      font-family: "Arial", sans-serif;
+      padding: 10px;
+      position: fixed;
+      top: 0;
+      width: 100%;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+    }
+
+    nav ul li {
+      margin: 0 10px;
+    }
+
+    nav ul li a {
+      color: white;
+      text-decoration: none;
+    }
+
+    section {
+      margin-top: 60px;
+    }
+.botones-container {
+    text-align: center;
+    margin-top: 20px;
+}
+.botones-container button {
+    background-color: #990066;
+    color: white;
+    padding: 15px 30px;
+    font-size:30px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
